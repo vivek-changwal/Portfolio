@@ -2,7 +2,7 @@ import logo from "./logo.svg";
 import images from "./images.svg";
 import backend from "./backend.png";
 import creator from "./creator.png";
-import pharmacy from "./pharmacy.png";
+import college from "./college.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import desert from "./desert.png";
@@ -54,7 +54,7 @@ export {
   close,
   css,
   bootstrap,
-  pharmacy,
+  college,
   postgres,
   postman,
   docker,

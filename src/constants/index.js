@@ -18,7 +18,7 @@ import {
     tailwind,
     nodejs,
     git,
-    pharmacy,
+    college,
 
   } from "../assets";
   
@@ -212,7 +212,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: pharmacy,
+      image: college,
       source_code_link: "https://gurukulpharma.com/",
     },
     {
